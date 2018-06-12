@@ -2,7 +2,7 @@
 
 **Studente:** Ceruso Raffaele
 
-**Matricola:** 0522500537
+**Matricola:** 05225-----
 
 **Problema assegnato:** nbody, modalità di comunicazione point-to-point, test su macchine m4.xlarge di amazon (dimensione massima del cluster: 8 nodi)
 
